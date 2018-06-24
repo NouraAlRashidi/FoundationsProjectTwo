@@ -1,6 +1,7 @@
 # CREATION OF DATA
 ######################### DO NOT MODIFY THIS CODE ###########################
 from components import Store, Product
+# 
 
 stores = []
 def create_product(store, name, description, price):
